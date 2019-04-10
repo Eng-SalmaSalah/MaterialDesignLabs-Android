@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewPagerWithTabs</string>
+    <string name="Tab1">First tab</string>
+    <string name="Tab2">Second Tab</string>
+    <string name="Tab3">Third tab</string>
+    <string name="tab2">Second tab</string>
+</resources>

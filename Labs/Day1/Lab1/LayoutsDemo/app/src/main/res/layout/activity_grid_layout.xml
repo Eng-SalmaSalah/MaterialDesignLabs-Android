@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:columnCount="3"
+    app:columnOrderPreserved="true"
+    app:layout_columnWeight="3"
+    app:layout_rowWeight="4"
+    app:rowOrderPreserved="true"
+    app:useDefaultMargins="true"
+    tools:context=".GridLayoutActivity">
+
+    <ImageView
+        android:id="@+id/flag0"
+        android:scaleType="fitXY"
+        app:layout_columnWeight="1"
+        app:layout_gravity="center"
+        app:layout_rowWeight="1"
+        tools:srcCompat="@tools:sample/avatars[8]" />
+
+    <ImageView
+        android:id="@+id/flag1"
+        android:scaleType="fitXY"
+        app:layout_columnWeight="1"
+        app:layout_gravity="center"
+        app:layout_rowWeight="1"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/flag2"
+        android:scaleType="fitXY"
+        app:layout_columnWeight="1"
+        app:layout_gravity="center"
+        app:layout_rowWeight="1"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/flag3"
+        android:scaleType="fitXY"
+        app:layout_columnWeight="1"
+        app:layout_gravity="center"
+        app:layout_rowWeight="1"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/flag4"
+        android:scaleType="fitXY"
+        app:layout_columnWeight="1"
+        app:layout_gravity="center"
+        app:layout_rowWeight="1"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/flag5"
+        android:scaleType="fitXY"
+        app:layout_columnWeight="1"
+        app:layout_gravity="center"
+        app:layout_rowWeight="1"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/flag6"
+        android:scaleType="fitXY"
+        app:layout_columnWeight="1"
+        app:layout_gravity="center"
+        app:layout_rowWeight="1"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/flag7"
+        android:scaleType="fitXY"
+        app:layout_columnWeight="1"
+        app:layout_gravity="center"
+        app:layout_rowWeight="1"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/flag8"
+        android:scaleType="fitXY"
+        app:layout_columnWeight="1"
+        app:layout_gravity="center"
+        app:layout_rowWeight="1"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/flag9"
+        android:scaleType="fitXY"
+        app:layout_columnWeight="1"
+        app:layout_gravity="center"
+        app:layout_rowWeight="1"
+        tools:srcCompat="@tools:sample/avatars" />
+</android.support.v7.widget.GridLayout>

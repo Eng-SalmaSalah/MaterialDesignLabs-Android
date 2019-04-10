@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="CheckBoxTheme" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">#FFC107</item>
+        <item name="colorControlActivated">#9C27B0</item>
+    </style>
+    <style name="radiobtnsStyle" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">#FFC107</item>
+        <item name="colorControlActivated">#9C27B0</item>
+    </style>
+    <style name="btnStyle" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">#FF6191</item>
+        <item name="colorControlActivated">#8187B0</item>
+    </style>
+
+</resources>

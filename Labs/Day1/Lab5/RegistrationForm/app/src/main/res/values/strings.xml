@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RegistrationForm</string>
+    <string name="gender">Gender:</string>
+    <string name="interests">Interests:</string>
+    <string name="reading">Reading</string>
+    <string name="sports">Sports</string>
+    <string name="WatchingTv">Watching Tv</string>
+</resources>

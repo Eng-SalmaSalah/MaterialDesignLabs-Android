@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LayoutsDemo</string>
+    <string name="GridLayout">Grid Layout</string>
+    <string name="FrameLayout">Frame Layout</string>
+    <string name="ConstraintLayout">Constraint Layout</string>
+    <string name="relativeLayout">Relative Layout</string>
+    <string name="LinearLayout">Linear Layout</string>
+    <string name="the_highest_populated_country">The Highest Populated Country</string>
+</resources>

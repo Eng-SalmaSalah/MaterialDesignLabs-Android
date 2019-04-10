@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SwipeTabsDemo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Tab1">First Tab</string>
+    <string name="Tab2">Second Tab</string>
+    <string name="Tab3">Third Tab</string>
+</resources>
